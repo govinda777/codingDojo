@@ -1,0 +1,8 @@
+C:\Projetos\codingDojo\codingDojo\PrimeiroService\bin\Debug\netstandard2.0\PrimeiroService.deps.json
+C:\Projetos\codingDojo\codingDojo\PrimeiroService\bin\Debug\netstandard2.0\PrimeiroService.dll
+C:\Projetos\codingDojo\codingDojo\PrimeiroService\bin\Debug\netstandard2.0\PrimeiroService.pdb
+C:\Projetos\codingDojo\codingDojo\PrimeiroService\obj\Debug\netstandard2.0\PrimeiroService.csprojAssemblyReference.cache
+C:\Projetos\codingDojo\codingDojo\PrimeiroService\obj\Debug\netstandard2.0\PrimeiroService.AssemblyInfoInputs.cache
+C:\Projetos\codingDojo\codingDojo\PrimeiroService\obj\Debug\netstandard2.0\PrimeiroService.AssemblyInfo.cs
+C:\Projetos\codingDojo\codingDojo\PrimeiroService\obj\Debug\netstandard2.0\PrimeiroService.dll
+C:\Projetos\codingDojo\codingDojo\PrimeiroService\obj\Debug\netstandard2.0\PrimeiroService.pdb
